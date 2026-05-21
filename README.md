@@ -1,18 +1,18 @@
-# Olá, eu sou Ana 👋
+# Olá, eu sou [Seu Nome] 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anadiniiz459@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
 ---
 
 ## Sobre mim
 
-- 🎓 Estudante / Desenvolvedor de **Sistemas**
-- 💼 Atualmente atuando em **SENAI**
-- 🌱 Aprendendo atualmente: **TypeScript**
-- 🚀 Apaixonado por **FrontEnd**
-- 🌍 Baseado em **Itapetininga, Brasil**
+- 🎓 Estudante de **Desenvolvimento de Sistemas no SENAI**
+- 💻 Focado em construir projetos práticos e evoluir como desenvolvedor
+- 🌱 Aprendendo atualmente: **[tecnologia ou conceito]**
+- 🚀 Apaixonado por **[sua paixão na área de tech]**
+- 🌍 Baseado em **[sua cidade, Brasil]**
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Bibliotecas
@@ -29,11 +29,12 @@
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySql](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps & Cloud
+### Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -56,7 +57,7 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [📦 Nome do Projeto](https://github.com/seu-usuario/projeto) | Breve descrição do que faz | `React` `Node.js` |
-| [🛠️ Outro Projeto](https://github.com/seu-usuario/outro-projeto) | Breve descrição do que faz | `Python` `PostgreSQL` |
+| [🛠️ Outro Projeto](https://github.com/seu-usuario/outro-projeto) | Breve descrição do que faz | `Java` `MySQL` |
 | [🌐 Mais um Projeto](https://github.com/seu-usuario/mais-projeto) | Breve descrição do que faz | `TypeScript` `Docker` |
 
 ---
