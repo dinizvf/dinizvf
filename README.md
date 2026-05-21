@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Ana Diniz👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
@@ -10,9 +10,9 @@
 
 - 🎓 Estudante de **Desenvolvimento de Sistemas no SENAI**
 - 💻 Focado em construir projetos práticos e evoluir como desenvolvedor
-- 🌱 Aprendendo atualmente: **[tecnologia ou conceito]**
-- 🚀 Apaixonado por **[sua paixão na área de tech]**
-- 🌍 Baseado em **[sua cidade, Brasil]**
+- 🌱 Aprendendo atualmente: **TypeScript**
+- 🚀 Apaixonado por **FrontEnd**
+- 🌍 Baseado em **Itapetininga, Brasil**
 
 ---
 
@@ -73,5 +73,5 @@ Estou sempre aberto a colaborações, oportunidades e boas conversas sobre tecno
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=flat-square" alt="Visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=dinizvf&color=blueviolet&style=flat-square" alt="Visualizações do perfil" />
 </div>
