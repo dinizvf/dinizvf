@@ -52,23 +52,13 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [📦 Nome do Projeto](https://github.com/seu-usuario/projeto) | Breve descrição do que faz | `React` `Node.js` |
-| [🛠️ Outro Projeto](https://github.com/seu-usuario/outro-projeto) | Breve descrição do que faz | `Java` `MySQL` |
-| [🌐 Mais um Projeto](https://github.com/seu-usuario/mais-projeto) | Breve descrição do que faz | `TypeScript` `Docker` |
-
----
-
 ## 📫 Vamos nos conectar?
 
 Estou sempre aberto a colaborações, oportunidades e boas conversas sobre tecnologia!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Twitter/X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![Twitter/X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/lqbosw)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anadiniiz459@gmail.com)
 
 ---
 
